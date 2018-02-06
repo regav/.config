@@ -2,4 +2,5 @@
 
 tmux.conf - Located at ~/.tmux.conf
 
-vim.rc - 
+vim.rc - Located at ~/.vimrc
+

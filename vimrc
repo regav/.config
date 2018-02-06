@@ -9,7 +9,7 @@ set ruler
 set number
 set wildmenu
 set laststatus=2
-set colorscheme delek
+colorscheme delek
 set mouse=a
 set title
 set history=1000
